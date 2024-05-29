@@ -75,4 +75,4 @@ This project is open-source and available under the MIT License.
 - **Mohamed Mourad Ouazghire 30005138**
 - **Nadim Khneisser**
 - **Vaya Parth Jitendra**
-- **Dayanna Picon**
+- **Dayanna Picon 30006777**
